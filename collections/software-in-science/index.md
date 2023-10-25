@@ -10,7 +10,6 @@ items:
  - dib-lab/khmer
  - sympy/sympy
  - spack/spack
- - ipython/ipython
  - ropensci-archive/rplos
  - LaurentRDC/scikit-ued
  - sagemath/sage-archive-2023-02-01

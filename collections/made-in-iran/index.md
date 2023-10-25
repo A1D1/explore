@@ -3,7 +3,6 @@ items:
  - jadijadi/bestoon
  - jadijadi/justforfun
  - mr-hashemi/mr-hashemi
- - pashmaklang/pashmak
  - roshan-research/moratab
  - PyFarsi/pyabr
  - jamedadi/yummy
@@ -14,7 +13,6 @@ items:
  - Kiarash-Z/react-modern-calendar-datepicker
  - MahdiMajidzadeh/bootstrap-v4-rtl
  - imaNNeo/fl_chart
- - persian-tools/persian-tools
  - usablica/intro.js
 display_name: Made in Iran
 created_by: Javad

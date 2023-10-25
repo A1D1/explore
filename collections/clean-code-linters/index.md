@@ -20,7 +20,6 @@ items:
  - coala/coala
  - pre-commit/pre-commit
  - innogames/igcommit
- - rodjek/puppet-lint
  - koalaman/shellcheck
  - r-lib/lintr
  - standardrb/standard

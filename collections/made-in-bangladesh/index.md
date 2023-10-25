@@ -20,7 +20,6 @@ items:
  - safwanrahman/django-webpush
  - sagorbrur/bnlp
  - sarim/ibus-avro
- - Shafin098/pakhi-bhasha
  - tareq1988/wordpress-settings-api-class
  - tareq1988/wp-eloquent
  - thedevsaddam/gojsonq

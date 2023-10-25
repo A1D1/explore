@@ -3,7 +3,6 @@ items:
  - alibaba/arthas
  - alibaba/p3c
  - alibaba/druid
- - alibaba/fastjson
  - alibaba/flutter-go
  - Tencent/weui
  - Tencent/wepy

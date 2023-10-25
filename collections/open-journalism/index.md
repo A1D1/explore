@@ -1,6 +1,5 @@
 ---
 items:
- - fivethirtyeight/data
  - datadesk/notebooks
  - nytimes/objective-c-style-guide
  - newsapps/beeswithmachineguns
@@ -11,7 +10,6 @@ items:
  - TimeMagazineLabs/babynames
  - guardian/frontend
  - dukechronicle/chronline
- - BloombergGraphics/whatiscode
  - times/cardkit
  - mkiser/WTFJHT
 display_name: Open journalism

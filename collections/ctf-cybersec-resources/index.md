@@ -17,7 +17,6 @@ items:
  - juice-shop/juice-shop
  - pwndbg/pwndbg
  - yeyintminthuhtut/Awesome-Red-Teaming
- - google/google-ctf
  - laramies/theHarvester
  - orangetw/My-CTF-Web-Challenges
  - RsaCtfTool/RsaCtfTool
@@ -60,7 +59,6 @@ items:
  - ihebski/factordb
  - CFI-UL/2018-CFI-CTF
  - Execut3/CTF
- - teambi0s/InCTFj
  - trimstray/the-book-of-secret-knowledge
  - ctf-wiki/ctf-wiki
  - eciavatta/caronte

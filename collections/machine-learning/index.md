@@ -15,7 +15,6 @@ items:
  - aikorea/awesome-rl
  - umutisik/Eigentechno
  - jpmckinney/tf-idf-similarity
- - scikit-learn-contrib/lightning
  - gwding/draw_convnet
  - scikit-learn/scikit-learn
  - tensorflow/tensorflow

@@ -13,7 +13,6 @@ items:
  - awaescher/RepoZ
  - sharkdp/fd
  - BurntSushi/ripgrep
- - jqlang/jq
  - alacritty/alacritty
  - ajeetdsouza/zoxide
 display_name: Software productivity tools

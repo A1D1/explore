@@ -39,7 +39,6 @@ items:
  - skytable/skytable
  - firstcontributions/first-contributions
  - CircuitVerse/CircuitVerse
- - mayankmetha/Rucky
  - resuminator
  - krayin/laravel-crm
  - ajeetdsouza/zoxide

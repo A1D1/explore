@@ -52,7 +52,6 @@ items:
 - pharo-project/pharo
 - ring-lang/ring
 - SenegalLang/Senegal
-- objectionary/eo
 - ChavaScript/chavascript
 - DennisMitchell/jellylanguage
 - beefytech/Beef

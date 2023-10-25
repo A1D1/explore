@@ -31,7 +31,6 @@ items:
  - cbpuschmann/stm_ic2s2
  - ohexel/comsocsci
  - atkindel/css_activities
- - chandrasg/lexica
  - PsiPhiTheta/Computational-SocSci-Labs
  - maczokni/R-for-Criminologists
  - maczokni/crimemapping_textbook_bookdown
